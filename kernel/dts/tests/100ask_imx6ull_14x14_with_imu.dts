@@ -1,0 +1,3 @@
+/* Compile-only wrapper; deploy the board DTB selected by U-Boot. */
+#include "100ask_imx6ull-14x14.dts"
+#include "../imx6ull-imu-oled.dtsi"

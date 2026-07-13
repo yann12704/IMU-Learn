@@ -1,0 +1,11 @@
+*.o
+*.ko
+*.mod.c
+*.mod.o
+*.order
+*.symvers
+.*.cmd
+.tmp_versions/
+app/attitude_app
+kernel/dts/tests/*.pp.dts
+kernel/dts/tests/*.dtb
